@@ -5,7 +5,7 @@ description = "Location of the resource group."
 
 variable "rg_name" {
 type        = string
-default     = "rg-avd-resources"
+default     = "myRG"
 description = "Name of the Resource group in which to deploy service objects"
 }
 
